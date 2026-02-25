@@ -8,8 +8,7 @@ on:
       - reopened
       - synchronize
 
-permissions:
-  pull-requests: write
+
 
 jobs:
   lint:
